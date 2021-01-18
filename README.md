@@ -1,3 +1,2 @@
-# JUST-RANDOM
-
+# Terrible Open-source memes
 This is just random.
